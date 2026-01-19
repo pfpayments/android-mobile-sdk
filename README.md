@@ -9,7 +9,7 @@
 
 # PostFinance Checkout Android Payment SDK
 
-[![Maven Central](https://img.shields.io/maven-central/v/ch.postfinance/postfinance-checkout-sdk)](https://central.sonatype.com/artifact/ch.postfinance/postfinance-checkout-sdk/1.5.1)
+[![Maven Central](https://img.shields.io/maven-central/v/ch.postfinance/postfinance-checkout-sdk)](https://central.sonatype.com/artifact/ch.postfinance/postfinance-checkout-sdk/1.5.2)
 
 ## Installation
 
@@ -24,7 +24,7 @@ Add `postfinance-checkout-sdk` to your `app/build.gradle` dependencies.
 ```groovy
 dependencies {
     // ...
-    implementation("ch.postfinance:postfinance-checkout-sdk:1.5.1")
+    implementation("ch.postfinance:postfinance-checkout-sdk:1.5.2")
     // ...
 }
 ```
